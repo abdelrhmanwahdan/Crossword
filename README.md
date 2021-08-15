@@ -1,2 +1,2 @@
 # Crossword
-a model that uses artificial intelligence to generate crossword puzzles.
+a program that uses artificial intelligence concepts to generate crossword puzzles.
